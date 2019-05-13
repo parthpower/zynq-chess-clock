@@ -1,6 +1,14 @@
 # zynq-chess-clock
 Dirt simple chess clock project on Xilinx Zynq. Why? I mean, why not!?
 
+# Please Donate
+
+This code is absolutely free. I made it in hope to help people on some boilerplate Zynq code with GPIO and Timer interrupts. If this project has helped you in any way, please give back to the people who really needs it. Even a dollar matters.
+
+Have a look at https://www.giveindia.org/certified-indian-ngos.
+
+
+# How to Build?
 ```text
 Steps to build:
 
